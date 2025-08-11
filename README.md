@@ -1,2 +1,2 @@
 # Martin-NTI-Test-
-test
+Hello from Martin
